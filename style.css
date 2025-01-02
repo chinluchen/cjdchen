@@ -11,6 +11,7 @@ footer {
     text-align: center; /* 文字置中 */
     padding: 10px 0;
     font-size: 0.9rem;
+    margin-top: 20px; /* 若需要與其他部分保持距離 */
 }
 
 body {
