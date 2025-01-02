@@ -6,7 +6,7 @@
 }
 
 footer {
-    background: #333;
+    background: #FFBA49;
     color: white;
     text-align: center; /* 文字置中 */
     padding: 10px 0;
@@ -18,7 +18,7 @@ body {
     font-family: 'Noto Sans TC', Arial, sans-serif;
     line-height: 1.6;
     color: white;
-    background: #333
+    background: #6E8894
 }
 
 /* 導航欄樣式 */
@@ -26,8 +26,9 @@ header {
     position: fixed;
     top: 0;
     width: 100%;
-    background: rgba(26, 145, 200, 0.95);
+    background: #1B2A41;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    color: white;
     z-index: 1000;
 }
 
