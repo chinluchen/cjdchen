@@ -70,3 +70,23 @@ section {
         margin: 0.5rem 0;
     }
 }
+
+.contact-links {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px; /* 每個連結之間的間距 */
+    margin: 20px 0;
+}
+
+.contact-link {
+    text-decoration: none;
+    color: white; /* 藍色連結 */
+    font-size: 1.2rem;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+.contact-link:hover {
+    color: #005bb5; /* 滑鼠懸停效果 */
+}
