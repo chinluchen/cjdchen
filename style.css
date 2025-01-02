@@ -6,7 +6,11 @@
 }
 
 footer {
-    align-items: center;
+    background: #333;
+    color: white;
+    text-align: center; /* 文字置中 */
+    padding: 10px 0;
+    font-size: 0.9rem;
 }
 
 body {
